@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/35.callback.subscriber/static/css/main.27f3226b.css",
+    "main.js": "/35.callback.subscriber/static/js/main.212cc888.js",
+    "index.html": "/35.callback.subscriber/index.html",
+    "main.27f3226b.css.map": "/35.callback.subscriber/static/css/main.27f3226b.css.map",
+    "main.212cc888.js.map": "/35.callback.subscriber/static/js/main.212cc888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f3226b.css",
+    "static/js/main.212cc888.js"
+  ]
+}
